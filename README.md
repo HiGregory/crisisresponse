@@ -1,4 +1,4 @@
-# RideAlong Response
+# FirstResponse
 
 [![Circle CI](https://circleci.com/gh/codeforamerica/crisisresponse.svg?style=svg&circle-token=3dbea1eed1c1d0e056ef0ceaeb0f54039facd079)](https://circleci.com/gh/codeforamerica/crisisresponse)
 
@@ -16,32 +16,10 @@
 
 ## Background
 
-The Seattle Police Department engaged Code for America
-to help develop software to divert individuals
-with mental health and addiction issues
-away from the criminal justice system
-and connect them to health, housing, and social services.
-In 2015, the Seattle police responded to 9,675 calls to 911
-that involved a person
-in a mental health and/or chemical dependency-related crisis.
-Specialized crisis response officers review these incidents
-and follow up with the most acute cases –
-contacting the person's caseworker,
-speaking to their family,
-and connecting the individual with local services.
-The Seattle police also train patrol officers
-to respond to crisis calls
-and to use de-escalation techniques
-with citizens in crisis.
+FirstResponse was a winning hackathon idea in 2018 based on using technology and design to help first responders in the work they do. The original vision was called “EI” which was a SAAS platform and application that uses facial recognition software to provide first responders access to people’s emergency information to resolve their issue. The hypothesis of this idea was that facial recognition could help first responders in the work that they do. 
 
-The Seattle fellowship team is working to develop an app
-for patrol officers to use
-during interactions with individuals in crisis.
-Focused on tailored plans
-for individuals who are frequently in contact with the police,
-this tool will include information such as who to call
-(family members, caseworker, etc.)
-and specific action steps to help the person.
+This fork of the Crisis Response app was inspired by Code for America's project with Seattle Police Department and we seek to repurpose this tool for use in Miami. The goal remains the same to help develop software to divert individuals
+with mental health and addiction issuesaway from the criminal justice system and connect them to health, housing, and social services. The focus will include additional feature to use facial recognition to match people who have been Baker Act with a focus on these types of indiviuals in police interaction.
 
 [See more about the project][more].
 
