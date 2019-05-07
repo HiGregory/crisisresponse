@@ -21,9 +21,9 @@ FirstResponse was a winning hackathon idea in 2018 based on using technology and
 This fork of the Crisis Response app was inspired by Code for America's project with Seattle Police Department and we seek to repurpose this tool for use in Miami. The goal remains the same to help develop software to divert individuals
 with mental health and addiction issuesaway from the criminal justice system and connect them to health, housing, and social services. The focus will include additional feature to use facial recognition to match people who have been Baker Act with a focus on these types of indiviuals in police interaction.
 
-[See more about the project][more].
+[See specifications for the project][more].
 
-[more]: http://c4a-sea-2016.tumblr.com/
+[more]: https://docs.google.com/document/d/1XMxG3ckLQLNIMpImhYsUmdh7j7rUjqj0GH1n-7H_Pf0/edit?usp=sharing
 
 ## Installation
 
